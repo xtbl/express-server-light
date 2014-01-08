@@ -9,14 +9,12 @@ Installation
 1. Edit "filesPath" in "server.js" with your own path.
 2. Run
 ```
-node server
+npm install
 ```
 3. Then
 ```
 node server
 ```
 
-License
-----
-
+**License**
 MIT
